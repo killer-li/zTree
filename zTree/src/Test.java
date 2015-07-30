@@ -8,5 +8,6 @@ public class Test {
 		System.out.println(1431234);
 		System.out.println(Arrays.toString(weekDays));
 		System.out.println();
+		System.out.println("asdf");
 	}
 }
